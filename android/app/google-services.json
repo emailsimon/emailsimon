@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259880913975",
+    "project_id": "traveltalkfb-d2579",
+    "storage_bucket": "traveltalkfb-d2579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259880913975:android:f660e7d9c2041f6b5483b2",
+        "android_client_info": {
+          "package_name": "com.mycompany.traveltalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LdtnI-yLB9Cye4MBQudXrY5JImycZHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

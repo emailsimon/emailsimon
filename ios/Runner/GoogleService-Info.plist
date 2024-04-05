@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAizMstd6K-i_2KGveUSxtGdNDNbYfAJlI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>259880913975</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.traveltalk</string>
+	<key>PROJECT_ID</key>
+	<string>traveltalkfb-d2579</string>
+	<key>STORAGE_BUCKET</key>
+	<string>traveltalkfb-d2579.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:259880913975:ios:db163e1a650f2d185483b2</string>
+</dict>
+</plist>
